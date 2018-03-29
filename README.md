@@ -1,6 +1,8 @@
 # GWD
 Get Realtime Weather Data From Guangdong,China Offical Weather Website: http://www.gdmo.cn/
+
 Now "gdmo.py" can be used.
+
 Request Lib:
   requests
   re
